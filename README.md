@@ -109,10 +109,7 @@ Deliverables:  Hosting and necessary search options will be implemented.<br/>
 **Phase 5** <br/>
 Duration time - (22.12.2020 - 04. 01. 2021) <br/>
 Deliverables:  Bug fixing will be continued & final release.<br/>
-***Appendix***<br/>
-**Contact information**<br/>
-Contact Person Name: Nazia Tabassum Toma <br/>
-Email: nazia.tabassum@northsouth.edu
+
 
 
 
