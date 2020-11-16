@@ -23,21 +23,21 @@ We all want to find the best deals online. Coupon finder is a trusted online pla
 Coupon finder brings an opportunity to save money on online shopping at your favorite online store. It is, therefore, essential to understanding the way in which to use these coupon codes to save substantial amounts of money.
 
 ***Features***\
--Anyone on the website can find the available coupon codes, offers & deals.
--Visitors can search by shop or restaurant name to find available coupons.
--Category based on shop types such as fashion, food, gadgets, etc.
--Shop details will be displayed with reviews from the users. 
--Trending Deal Section – latest voucher codes & deals will be shown here.
--Auto-suggestion assistant – this enables fast search results of shops or restaurants.
--Sign up option- Registered users will receive free email notifications about the top offers.
--Sign up & login option based on email , instagram & facebook. 
--Admin Panel – the admins will have full control over the whole system adding/updating shop names and/or updating other information
+- Anyone on the website can find the available coupon codes, offers & deals.
+- Visitors can search by shop or restaurant name to find available coupons.
+- Category based on shop types such as fashion, food, gadgets, etc.
+- Shop details will be displayed with reviews from the users. 
+- Trending Deal Section – latest voucher codes & deals will be shown here.
+- Auto-suggestion assistant – this enables fast search results of shops or restaurants.
+- Sign up option- Registered users will receive free email notifications about the top offers.
+- Sign up & login option based on email , instagram & facebook. 
+- Admin Panel – the admins will have full control over the whole system adding/updating shop names and/or updating other information
 
 ***Business Impact***\
--At the growing edge of online shopping, customers will be more likely to buy their necessary stuff online as discounts are available in an organized manner. It will save their hard-earned money.
--Affiliated online shops will get information about what their customers are looking for with more discounts.
--Online shops can advertise their hot deals and get more customers.
--A cost-effective way to promote a brand, and its products while not spending huge sums without results.
+- At the growing edge of online shopping, customers will be more likely to buy their necessary stuff online as discounts are available in an organized manner. It will save their hard-earned money.
+- Affiliated online shops will get information about what their customers are looking for with more discounts.
+- Online shops can advertise their hot deals and get more customers.
+- A cost-effective way to promote a brand, and its products while not spending huge sums without results.
 
 
 
