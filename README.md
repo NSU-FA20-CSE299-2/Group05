@@ -39,7 +39,7 @@ Coupon finder brings an opportunity to save money on online shopping at your fav
 - Online shops can advertise their hot deals and get more customers.
 - A cost-effective way to promote a brand, and its products while not spending huge sums without results.
 
-***Technology***
+***Technology*** <br/>
 We decided to go with the latest technologies for developing this application in order to give users a better experience.
 
 *Frontend* <br/>
