@@ -94,23 +94,23 @@ The percentage of selling will be taken from online shops as per the use of coup
 
 The development methodology will adopt the agile methodology. And the schedule of the Coupon finder website is given below. 
 
-**Phase 1**
+**Phase 1**<br/>
 Duration time - ( 2.11.2020 -  14.11.2020 )<br/>
-Deliverables: A proposal for the website will be delivered. 
+Deliverables: A proposal for the website will be delivered.<br/>
 **Phase 2** <br/>
 Duration time - ( 14.11.2020 -  23.11.2020 )<br/>
-Deliverables: Accessible login/sign up, logout page, homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. 
+Deliverables: Accessible login/sign up, logout page, homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. <br/>
 **Phase 3**<br/>
 Duration time - ( 24.11.2020 -  07.12.2020 ) <br/>
-Deliverables:  In this duration, the interaction of Django and Database will be established. 
+Deliverables:  In this duration, the interaction of Django and Database will be established. <br/>
 **Phase 4** <br/>
 Duration time - ( 08.12.2020 -  21.12.2020 ) <br/>
-Deliverables:  Hosting and necessary search options will be implemented.
+Deliverables:  Hosting and necessary search options will be implemented.<br/>
 **Phase 5** <br/>
 Duration time - (22.12.2020 - 04. 01. 2021) <br/>
-Deliverables:  Bug fixing will be continued & final release.
+Deliverables:  Bug fixing will be continued & final release.<br/>
 ***Appendix***<br/>
-**Contact information**
+**Contact information**<br/>
 Contact Person Name: Nazia Tabassum Toma <br/>
 Email: nazia.tabassum@northsouth.edu
 
