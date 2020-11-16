@@ -42,18 +42,18 @@ Coupon finder brings an opportunity to save money on online shopping at your fav
 ***Technology***
 We decided to go with the latest technologies for developing this application in order to give users a better experience.
 
-*Frontend* 
+*Frontend* <br/>
 For the frontend, we will be using HTML, CSS, JavaScript, and Bootstrap. Bootstrap’s responsive CSS adjusts to phones, tablets, and desktops.  It also gives a more premium user interface and smoother experience.
 
 ![alt text](https://raw.githubusercontent.com/NSU-FA20-CSE299-2/Group05/main/Images/frontend%20logo.jpg?token=AKQK2L54RZR723JQXHA2HUS7XNSDE)
 
-*Backend & Database*
+*Backend & Database* <br/>
 Python’s web framework - Django will be used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. We will be using MySQL as the database. MySQL offers advanced features and reliability far beyond a typical freeware project.
 
 ![alt text](https://raw.githubusercontent.com/NSU-FA20-CSE299-2/Group05/main/Images/backend.jpg?token=AKQK2LZMIXU3AR5BJQAW45K7XNSJY)
 
-*Additional Technologies*
-Django-allauth will be used to allow users to login using their Facebook, Instagram, or Google account. <br\>
+*Additional Technologies* <br/>
+Django-allauth will be used to allow users to login using their Facebook, Instagram, or Google account. <br/>
 A database of online shops and their details & latest discounts will be stored in an excel file. Python pandas will be used to read those data using read_excel & integrate with MySQL.
 
 ***Frontend Plan***
@@ -95,23 +95,23 @@ The percentage of selling will be taken from online shops as per the use of coup
 The development methodology will adopt the agile methodology. And the schedule of the Coupon finder website is given below. 
 
 **Phase 1**
-Duration time - ( 2.11.2020 -  14.11.2020 )/
+Duration time - ( 2.11.2020 -  14.11.2020 )<br/>
 Deliverables: A proposal for the website will be delivered. 
-**Phase 2**
-Duration time - ( 14.11.2020 -  23.11.2020 )/
-Deliverables: Accessible login/sign up, logout page,/ homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. 
-**Phase 3**
-Duration time - ( 24.11.2020 -  07.12.2020 )/
+**Phase 2** <br/>
+Duration time - ( 14.11.2020 -  23.11.2020 )<br/>
+Deliverables: Accessible login/sign up, logout page, homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. 
+**Phase 3**<br/>
+Duration time - ( 24.11.2020 -  07.12.2020 ) <br/>
 Deliverables:  In this duration, the interaction of Django and Database will be established. 
-**Phase 4**
-Duration time - ( 08.12.2020 -  21.12.2020 )/
+**Phase 4** <br/>
+Duration time - ( 08.12.2020 -  21.12.2020 ) <br/>
 Deliverables:  Hosting and necessary search options will be implemented.
-**Phase 5**
-Duration time - (22.12.2020 - 04. 01. 2021)/
+**Phase 5** <br/>
+Duration time - (22.12.2020 - 04. 01. 2021) <br/>
 Deliverables:  Bug fixing will be continued & final release.
-***Appendix***
+***Appendix***<br/>
 **Contact information**
-Contact Person Name: Nazia Tabassum Toma/
+Contact Person Name: Nazia Tabassum Toma <br/>
 Email: nazia.tabassum@northsouth.edu
 
 
