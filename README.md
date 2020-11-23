@@ -18,7 +18,7 @@
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 
-***Introduction***
+***Introduction*** <br/>
 We all want to find the best deals online. Coupon finder is a trusted online platform and is leading the way to discover, compare, and leverage the best discount deals, exclusive discount offers, and fascinating daily deals. Our aim is to provide massive discounts across a broad range of products, services, and activities.\
 Coupon finder brings an opportunity to save money on online shopping at your favorite online store. It is, therefore, essential to understanding the way in which to use these coupon codes to save substantial amounts of money.
 
