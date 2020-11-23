@@ -99,10 +99,10 @@ Duration time - ( 2.11.2020 -  14.11.2020 )<br/>
 Deliverables: A proposal for the website will be delivered.<br/>
 **Phase 2** <br/>
 Duration time - ( 14.11.2020 -  23.11.2020 )<br/>
-Deliverables: Accessible login/sign up, logout page, homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. <br/>
+Deliverables: GitHub setup <br/>
 **Phase 3**<br/>
 Duration time - ( 24.11.2020 -  07.12.2020 ) <br/>
-Deliverables:  In this duration, the interaction of Django and Database will be established. <br/>
+Deliverables: Accessible login/sign up, logout page, homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. In this duration, the interaction of Django and Database will be established. <br/>
 **Phase 4** <br/>
 Duration time - ( 08.12.2020 -  21.12.2020 ) <br/>
 Deliverables:  Hosting and necessary search options will be implemented.<br/>
