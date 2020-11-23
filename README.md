@@ -45,12 +45,12 @@ We decided to go with the latest technologies for developing this application in
 *Frontend* <br/>
 For the frontend, we will be using HTML, CSS, JavaScript, and Bootstrap. Bootstrap’s responsive CSS adjusts to phones, tablets, and desktops.  It also gives a more premium user interface and smoother experience.
 
-![alt text](https://raw.githubusercontent.com/NSU-FA20-CSE299-2/Group05/main/Images/frontend%20logo.jpg?token=AKQK2L54RZR723JQXHA2HUS7XNSDE)
+![alt text](https://raw.githubusercontent.com/NSU-FA20-CSE299-2/Group05/main/Code/Images/frontend%20logo.jpg?token=AKQK2L36P5EJT76ZOZGGWEC7YRXNE)
 
 *Backend & Database* <br/>
 Python’s web framework - Django will be used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. We will be using MySQL as the database. MySQL offers advanced features and reliability far beyond a typical freeware project.
 
-![alt text](https://raw.githubusercontent.com/NSU-FA20-CSE299-2/Group05/main/Images/backend.jpg?token=AKQK2LZMIXU3AR5BJQAW45K7XNSJY)
+![alt text](https://raw.githubusercontent.com/NSU-FA20-CSE299-2/Group05/main/Code/Images/backend.jpg?token=AKQK2L6X4UWRHJWIQR7AHLK7YRXOS)
 
 *Additional Technologies* <br/>
 Django-allauth will be used to allow users to login using their Facebook, Instagram, or Google account. <br/>
