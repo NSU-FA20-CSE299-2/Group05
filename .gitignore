@@ -1,1 +1,3 @@
-*/.vscode/*
+$ !cat .vscode/.gitignore
+
+*
