@@ -12,3 +12,8 @@ Code/Practice/demo_project/demo_project/__pycache__/settings.cpython-38.pyc
 Code/Practice/demo_project/demo_project/spiders/__pycache__/__init__.cpython-38.pyc
 Code/Practice/demo_project/demo_project/settings.py
 Code/Practice/demo_project/demo_project/__pycache__/items.cpython-38.pyc
+Code/Backend/scraped_data/scraped_data/__init__.py
+Code/Backend/scraped_data/scraped_data/middlewares.py
+Code/Backend/scraped_data/scraped_data/pipelines.py
+Code/Backend/scraped_data/scraped_data/spiders/__init__.py
+Code/Backend/scraped_data/scrapy.cfg
