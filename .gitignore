@@ -17,3 +17,13 @@ Code/Backend/scraped_data/scraped_data/middlewares.py
 Code/Backend/scraped_data/scraped_data/pipelines.py
 Code/Backend/scraped_data/scraped_data/spiders/__init__.py
 Code/Backend/scraped_data/scrapy.cfg
+Code/Backend/couponFinder/coupon/__pycache__/__init__.cpython-38.pyc
+Code/Backend/couponFinder/coupon/__pycache__/admin.cpython-38.pyc
+Code/Backend/couponFinder/coupon/__pycache__/models.cpython-38.pyc
+Code/Backend/couponFinder/coupon/migrations/__pycache__/__init__.cpython-38.pyc
+Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
+Code/Backend/couponFinder/db.sqlite3
+Code/Backend/couponFinder/couponFinder/__pycache__/urls.cpython-38.pyc
+Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
+Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
+Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
