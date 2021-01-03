@@ -1,5 +1,5 @@
 from django.urls import path
-from * import views
+from coupon import views
 
 urlpatterns = [
     path('', views.coupon, name="coupon"),
