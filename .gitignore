@@ -36,3 +36,4 @@ Code/Backend/couponFinder/coupon/__pycache__/views.cpython-38.pyc
 Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
 Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
 Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
+*.pyc
