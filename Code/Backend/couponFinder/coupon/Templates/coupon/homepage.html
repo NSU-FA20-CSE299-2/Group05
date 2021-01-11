@@ -1,4 +1,5 @@
 {% load static %}
+{% block content %}
 <link rel="stylesheet" href="{% static 'css/homepage.css' %}">
 
 
@@ -131,13 +132,14 @@
         <h2 class="mt-5">Latest Coupon Codes and Deals</h2>
             <div class="card mb-3 mt-4" style="max-width: 700px;">
                 <div class="row no-gutters">
+                  {% for coupon in coupon %}
                   <div class="col-6">
                     <img src="images/khida60.png" class="card-img" alt="..." style="height: 150px; width: 350px;">
                   </div>
                   <div class="col-6">
                     <div class="card-body">
-                      <h5 class="card-title">Order 150TK and Get 60TK Discount from foodpanda!</h5>
-                      <button type="button" class="btn btn-warning" style="width: 300px;"><strong>GET CODE</strong> </button>
+                      <h5 class="card-title">{{coupon.description}}</h5>
+                      <button type="button" class="btn btn-warning" style="width: 300px;"><strong>{{coupon.code}}</strong> </button>
                      </div>
                   </div>
                 </div>
@@ -145,6 +147,7 @@
         </div>
             </div>
         </div>
+        {% endfor %}
      
         
 
@@ -174,6 +177,8 @@
                             info@couponfinder.com</p>
                         </div>
                       </div>
+
+                    {% endblock content %}
 
     <!-- Option 2: jQuery, Popper.js, and Bootstrap JS-->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
