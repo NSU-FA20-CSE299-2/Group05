@@ -3,7 +3,7 @@
 <p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
 <p align="center"><strong>North South University</strong></p>
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
-<p align="center"><strong>Project Proposal</strong></p>
+<p align="center"><strong>Project Final Report</strong></p>
 <p align="center"><strong>Group No</strong>: 05</p>
 <p align="center"><strong>Fall 2020</strong></p>
 <p align="center"><strong>Project Name</strong>: Coupon Finder</p>
@@ -14,7 +14,7 @@
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1721536042</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:nazia.tabassum@northsouth.edu">nazia.tabassum@northsouth.edu</a></p>
 <p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-FA20-CSE299-2/Group05">https://github.com/NSU-FA20-CSE299-2/Group05/</a></p>
-<p align="center"><strong>Date Prepared</strong><strong>: </strong>16/11/2020</p>
+<p align="center"><strong>Date Prepared</strong><strong>: </strong>18/01/2020</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 
@@ -24,13 +24,9 @@ Coupon finder brings an opportunity to save money on online shopping at your fav
 
 ***Features***
 - Anyone on the website can find the available coupon codes, offers & deals.
-- Visitors can search by shop or restaurant name to find available coupons.
 - Category based on shop types such as fashion, food, gadgets, etc.
-- Shop details will be displayed with reviews from the users. 
-- Trending Deal Section – latest voucher codes & deals will be shown here.
-- Auto-suggestion assistant – this enables fast search results of shops or restaurants.
+- Shop website redirection from the Coupon Finder page. 
 - Sign up option- Registered users will receive free email notifications about the top offers.
-- Sign up & login option based on email , instagram & facebook. 
 - Admin Panel – the admins will have full control over the whole system adding/updating shop names and/or updating other information
 
 ***Business Impact***
@@ -43,40 +39,27 @@ Coupon finder brings an opportunity to save money on online shopping at your fav
 We decided to go with the latest technologies for developing this application in order to give users a better experience.
 
 *Frontend* <br/>
-For the frontend, we will be using HTML, CSS, JavaScript, and Bootstrap. Bootstrap’s responsive CSS adjusts to phones, tablets, and desktops.  It also gives a more premium user interface and smoother experience.
+For the frontend, we will be using HTML, CSS, and Bootstrap. Bootstrap’s responsive CSS adjusts to phones, tablets, and desktops.  It also gives a more premium user interface and smoother experience.
 
 
 *Backend & Database* <br/>
-Python’s web framework - Django will be used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. We will be using MySQL as the database. MySQL offers advanced features and reliability far beyond a typical freeware project.
+Python’s web framework - Django will be used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. We have used Django Database.  Django Database offers advanced features and reliability far beyond a typical freeware project.
 
-
-*Additional Technologies* <br/>
-Django-allauth will be used to allow users to login using their Facebook, Instagram, or Google account. <br/>
-A database of online shops and their details & latest discounts will be stored in an excel file. Python pandas will be used to read those data using read_excel & integrate with MySQL.
 
 ***Frontend Plan***
 A total of 6 page-templates in plan (as of November 14, 2020)
 1. Homepage
-2. Sign up page
-3. Login page
-4. Admin dashboard
-5. Category Based Search Page
-6. View Discount Coupon Page with shop details
+2. Gadget Coupon Page
+3. Food Coupon page
+4. Fashion Coupon page
+6. Contact us page
 
 ***Backend Development***
-1. Account Creating, Password Recover:
-- Sign up form
-- Login
-- Facebook login 
-- Google login 
-- Forgot Password
-- MySQL Database
-
-2. Searching Facility:
-- Category based
-- Shop based
-      
-3. Dashboard:
+1. Backend for Homepage 
+2. Backend for Gadget Coupon Page 
+3. Backend for Food Coupon page
+4. Fashion Coupon page     
+5. Dashboard:
 - Admin dashboard
 
 
@@ -88,25 +71,12 @@ The percentage of selling will be taken from online shops as per the use of coup
 - The percentage and cost will be calculated based on website traffic.
 
 
-***Development Plan (Tentative)***
+***Developed Project***
 
-The development methodology will adopt the agile methodology. And the schedule of the Coupon finder website is given below. 
+**Admin Dashboard**
+Only superadmin can access this dashboard using username and password. 
+![](images/admin1.png)
 
-**Phase 1**<br/>
-Duration time - ( 2.11.2020 -  14.11.2020 )<br/>
-Deliverables: A proposal for the website will be delivered.<br/>
-**Phase 2** <br/>
-Duration time - ( 14.11.2020 -  23.11.2020 )<br/>
-Deliverables: GitHub setup <br/>
-**Phase 3**<br/>
-Duration time - ( 24.11.2020 -  07.12.2020 ) <br/>
-Deliverables: Accessible login/sign up, logout page, homepage, admin dashboard, category page will be designed. HTML, CSS, JavaScript, Bootstrap will be used for the front end. In this duration, the interaction of Django and Database will be established. <br/>
-**Phase 4** <br/>
-Duration time - ( 08.12.2020 -  21.12.2020 ) <br/>
-Deliverables:  Hosting and necessary search options will be implemented.<br/>
-**Phase 5** <br/>
-Duration time - (22.12.2020 - 04. 01. 2021) <br/>
-Deliverables:  Bug fixing will be continued & final release.<br/>
 
 
 
