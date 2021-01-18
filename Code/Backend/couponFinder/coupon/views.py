@@ -11,6 +11,6 @@ def coupon(request):
 def company(request):
     coupon = Coupon.objects.all()
     context = {'coupon' : coupon}
-    return render(request, 'coupon/shop_details.html', context)
+    return render(request, 'coupon/food.html', context)
 
 
