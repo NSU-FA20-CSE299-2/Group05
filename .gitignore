@@ -41,3 +41,4 @@ Code/Backend/couponFinder/coupon/migrations/0002_coupon_image.py
 Code/Backend/couponFinder/coupon/migrations/0003_gadget_oupon.py
 Code/Backend/couponFinder/coupon/migrations/0004_auto_20210118_1134.py
 Code/Backend/couponFinder/couponFinder/__pycache__/settings.cpython-38.pyc
+Code/Backend/couponFinder/coupon/migrations/0005_fashion_coupon.py
