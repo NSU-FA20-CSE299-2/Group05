@@ -82,13 +82,32 @@ Only superadmin can access this dashboard using username and password. Super adm
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin4.png)
 
 
+**Homepage** <br/>
+User can visit this page and find available coupons.
+
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/homepage1.png)
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/homepage2.png)
 
 
+**Gadget Coupon Page** <br/>
+
+User can find coupons for gadgets in this page.
+
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/gadget1.png)
 
 
+**Food Coupon Page** <br/>
+
+User can find coupons for food iteams in this page.
+
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/food1.png)
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/food2.png)
 
 
+**Fashion Coupon Page** <br/>
 
+User can find coupons for fashion iteams in this page.
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/fashion1.png)
 
 
 
