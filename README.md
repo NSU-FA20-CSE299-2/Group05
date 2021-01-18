@@ -74,8 +74,13 @@ The percentage of selling will be taken from online shops as per the use of coup
 ***Developed Project***
 
 **Admin Dashboard** <br/>
-Only superadmin can access this dashboard using username and password. 
+Only superadmin can access this dashboard using username and password. Super admin can add, remove, edit any available code to the website.
+
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin1.png)
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin2.png)
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin3.png)
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin4.png)
+
 
 
 
