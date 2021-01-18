@@ -42,7 +42,7 @@
                     Categories
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Gadgets</a>
+                    <a class="dropdown-item" href="{% url 'gadget' %}">Gadgets</a>
                     <a class="dropdown-item" href="{% url 'food' %}">Food</a>
                     
                     <a class="dropdown-item" href="#">Fashion</a>
@@ -69,7 +69,7 @@
                     <div class="card-body">
                       <ul class="list-group list-group-flush">
                         <li class="list-group-item font-weight-bolder text-dark" >
-                          <a href="#">
+                          <a href="{% url 'gadget' %}">
                           <i class="fa fa-mobile" aria-hidden="true"></i> Gadgets</li></a>
                         <li class="list-group-item font-weight-bolder ">
                           <a href="{% url 'food' %}">
