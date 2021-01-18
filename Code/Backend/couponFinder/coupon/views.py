@@ -18,4 +18,9 @@ def gadget_coupon(request):
     context = {'gadget_coupon' : gadget_coupon}
     return render(request, 'coupon/gadget.html', context)
 
+def fashion_coupon(request):
+    fashion_coupon = Fashion_coupon.objects.all()
+    context = {'fashion_coupon' : fashion_coupon}
+    return render(request, 'coupon/fashion.html', context)
+
 
