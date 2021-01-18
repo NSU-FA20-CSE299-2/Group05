@@ -5,4 +5,5 @@ urlpatterns = [
     path('', views.coupon, name="coupon"),
     path('food/', views.company, name="food"),
     path('gadget/', views.gadget_coupon, name="gadget"),
+    path('fashion/', views.fashion_coupon, name="fashion"),
 ]
