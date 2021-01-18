@@ -109,5 +109,8 @@ User can find coupons for food iteams in this page.
 User can find coupons for fashion iteams in this page.
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/fashion1.png)
 
+**Contact Us Page** <br/>
+![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/contactus.png)
+
 
 
