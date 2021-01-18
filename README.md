@@ -113,4 +113,6 @@ User can find coupons for fashion iteams in this page.
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/contactus.png)
 
 
+***Roadblocks***
 
+We tried to use Python's Scrapy Framework for scrapping data from the shop websites but we found that those data are not always updated and mostly written in Bangla. So we skipped that part. 
