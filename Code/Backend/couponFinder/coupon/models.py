@@ -14,6 +14,7 @@ class Coupon(models.Model):
     name = models.CharField(max_length=200, null=True)
     description = models.CharField(max_length=500, null=True)
     code = models.CharField(max_length=200, null=True)
+    image= models.ImageField(null = True, blank= True)
 
 
     def __str__(self):
