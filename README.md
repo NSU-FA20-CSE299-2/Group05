@@ -153,7 +153,6 @@ Users can ask any question or give feedback using this page.
 
 1. New portal for companies to signup and login.
 2. Companies like pathao/foodpanda etc. will have their own account in this website and they can update their regular offers.
-3. Database structure should be remodified for better performance.
 
 
 
