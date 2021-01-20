@@ -98,7 +98,7 @@ Also, in our project proposal we wanted to implement a Sign Up/Login portal for 
 
 
 
-## 7. MONETIZATION
+## 7. Monetization
 
 - CPC- Cost per click will be added to the advertisements.
 The percentage of selling will be taken from online shops as per the use of coupons.
@@ -109,7 +109,7 @@ The percentage of selling will be taken from online shops as per the use of coup
 ## 8. Developed Project
 
 **Admin Dashboard** <br/>
-Only superadmin can access this dashboard using username and password. Super admin can add, remove, edit any available code to the website.
+Only superadmin can access this dashboard using username and password. Super admin can add, remove, edit any available code to the website. Also, he/she can assign another superadmin for maintainging the website.
 
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin1.png)
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/admin2.png)
@@ -118,7 +118,7 @@ Only superadmin can access this dashboard using username and password. Super adm
 
 
 **Homepage** <br/>
-User can visit this page and find available coupons.
+User can visit this page and find available coupons. At first there is a ads section. Companies can sell ads to us for their product marketing in homepage.
 
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/homepage1.png)
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/homepage2.png)
@@ -141,11 +141,19 @@ User can find coupons for food iteams in this page.
 
 **Fashion Coupon Page** <br/>
 
-User can find coupons for fashion iteams in this page.
+User can find coupons for fashion iteams in this page. There's also an ads section on the left side. 
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/fashion1.png)
 
 **Contact Us Page** <br/>
+
+Users can ask any question or give feedback using this page. 
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/contactus.png)
+
+## 9. Future plans with this project 
+
+1. New portal for companies to signup and login.
+2. Companies like pathao/foodpanda etc. will have their own account in this website and they can update their regular offers.
+3. Database structure should be remodified for better performance.
 
 
 
