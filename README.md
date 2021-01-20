@@ -18,43 +18,71 @@
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 
-***Introduction*** <br/>
+***1. Introduction*** <br/>
 We all want to find the best deals online. Coupon finder is a trusted online platform and is leading the way to discover, compare, and leverage the best discount deals, exclusive discount offers, and fascinating daily deals. Our aim is to provide massive discounts across a broad range of products, services, and activities.\
 Coupon finder brings an opportunity to save money on online shopping at your favorite online store. It is, therefore, essential to understanding the way in which to use these coupon codes to save substantial amounts of money.
 
-***Features***
+***2. Features***
 - Anyone on the website can find the available coupon codes, offers & deals.
 - Category based on shop types such as fashion, food, gadgets, etc.
 - Shop website redirection from the Coupon Finder page. 
 - Sign up option- Registered users will receive free email notifications about the top offers.
 - Admin Panel – the admins will have full control over the whole system adding/updating shop names and/or updating other information
 
-***Business Impact***
+***3. Business Impact***
 - At the growing edge of online shopping, customers will be more likely to buy their necessary stuff online as discounts are available in an organized manner. It will save their hard-earned money.
 - Affiliated online shops will get information about what their customers are looking for with more discounts.
 - Online shops can advertise their hot deals and get more customers.
 - A cost-effective way to promote a brand, and its products while not spending huge sums without results.
 
-***Technology*** <br/>
+## 4. Proposed Technology Stack 
 We decided to go with the latest technologies for developing this application in order to give users a better experience.
 
-*Frontend* <br/>
-For the frontend, we will be using HTML, CSS, and Bootstrap. Bootstrap’s responsive CSS adjusts to phones, tablets, and desktops.  It also gives a more premium user interface and smoother experience.
+*4.1 Frontend* <br/>
+For the frontend, we used HTML, CSS, and Bootstrap. Bootstrap’s responsive CSS adjusts to phones, tablets, and desktops.  It also gives a more premium user interface and smoother experience. <br/>
 
-
-*Backend & Database* <br/>
-Python’s web framework - Django will be used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. We have used Django Database.  Django Database offers advanced features and reliability far beyond a typical freeware project.
-
-
-***Frontend Plan***
 A total of 6 page-templates in plan (as of November 14, 2020)
+1. Homepage
+2. Sign up page
+3. Login page
+4. Admin dashboard
+5. Category Based Search Page
+6. View Discount Coupon Page with shop details
+
+
+
+*4.2 Backend & Database* <br/>
+
+Python’s web framework - Django will be used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. We will be using MySQL as the database. MySQL offers advanced features and reliability far beyond a typical freeware project.
+
+1. Account Creating, Password Recover:
+- Sign up form
+- Login
+- Facebook login
+- Google login
+- Forgot Password
+- MySQL Database
+2. Searching Facility:
+- Category based
+- Shop based
+3. Dashboard:
+- Admin dashboard
+
+## 5. Implemented Technology Stack 
+
+*5.1 Frontend* <br/>
+For the frontend, we used Bootstrap 4 and css for giving smoother and premium experience to our customers.
+
+We implemented 6 pages.
 1. Homepage
 2. Gadget Coupon Page
 3. Food Coupon page
 4. Fashion Coupon page
 6. Contact us page
 
-***Backend Development***
+*5.2 Backend & Database* <br/>
+Python’s web framework - Django was used as the website’s backend. Django ensures rapid development providing high security and maintenance. Django takes care of much of the hassle of web development, so we can focus on writing our code without needing to reinvent the wheel. For the database requirement we have opted to use a SQL database that comes with Django by default And so we have decided to use sqlite3 for the projects database requirement.
+
 1. Backend for Homepage 
 2. Backend for Gadget Coupon Page 
 3. Backend for Food Coupon page
@@ -62,8 +90,15 @@ A total of 6 page-templates in plan (as of November 14, 2020)
 5. Dashboard:
 - Admin dashboard
 
+***6. Roadblocks***
 
-***MONETIZATION***
+We tried to use Python's Scrapy Framework for scrapping data from the shop websites but we found that those data are not always updated and mostly written in Bangla. So we decided not to go with web scrapping approach. 
+
+Also, in our project proposal we wanted to implement a Sign Up/Login portal for our users but on the implementation stage, we decided not to go with that because main goal of our project was finding coupons only. Instead of Login portal we decided to have a notification system for users through mail about new availabe coupons.
+
+
+
+***7. MONETIZATION***
 
 - CPC- Cost per click will be added to the advertisements.
 The percentage of selling will be taken from online shops as per the use of coupons.
@@ -71,7 +106,8 @@ The percentage of selling will be taken from online shops as per the use of coup
 - The percentage and cost will be calculated based on website traffic.
 
 
-***Developed Project***
+
+***8. Developed Project***
 
 **Admin Dashboard** <br/>
 Only superadmin can access this dashboard using username and password. Super admin can add, remove, edit any available code to the website.
@@ -113,6 +149,4 @@ User can find coupons for fashion iteams in this page.
 ![alt text](https://github.com/NSU-FA20-CSE299-2/Group05/blob/main/Code/Images/contactus.png)
 
 
-***Roadblocks***
 
-We tried to use Python's Scrapy Framework for scrapping data from the shop websites but we found that those data are not always updated and mostly written in Bangla. So we skipped that part. 
